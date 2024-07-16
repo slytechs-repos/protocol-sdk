@@ -17,7 +17,7 @@
 	<properties>
 		<parent.project>${project.artifactId}</parent.project>
 
-		<jdk.version>21</jdk.version>
+		<jdk.version>22</jdk.version>
 		<project.build.sourceEncoding>${java.encoding}</project.build.sourceEncoding>
 		<maven.compiler.source>${jdk.version}</maven.compiler.source>
 		<maven.compiler.target>${jdk.version}</maven.compiler.target>
