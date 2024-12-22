@@ -1,6 +1,0 @@
-[submodule "protocol-pack-core"]
-	path = protocol-pack-api
-	url = https://github.com/slytechs-repos/protocol-pack-api.git
-[submodule "protocol-pack-web"]
-	path = protocol-pack-web
-	url = https://github.com/slytechs-repos/protocol-pack-web.git
