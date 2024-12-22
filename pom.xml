@@ -19,8 +19,8 @@
 		and 'parent' POM</description>
 
 	<modules>
-		<module>protocol-pack-api</module>
-		<module>protocol-pack-web</module>
+		<module>../protocol-api</module>
+		<module>../protocol-web</module>
 	</modules>
 
 	<dependencies>
