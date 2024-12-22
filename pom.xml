@@ -11,7 +11,7 @@
 	</parent>
 
 	<groupId>com.slytechs.jnet.protocol</groupId>
-	<artifactId>protocol-pack-sdk-parent</artifactId>
+	<artifactId>protocol-sdk-parent</artifactId>
 	<version>0.10.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>Protocol SDK - Parent POM</name>
